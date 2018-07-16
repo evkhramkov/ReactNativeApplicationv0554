@@ -11,6 +11,7 @@ import Analytics from 'appcenter-analytics';
 
 export default class App extends Component {
   render() {
+    // test change
     return (
       <View style={styles.container}>
         <Button title='test event' onPress={this.sendTestEvent}/>
