@@ -20,7 +20,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
   NSURL *jsCodeLocation;
-  
+  [MSAppCenter setLogLevel:MSLogLevelVerbose];
   [MSAppCenter setLogUrl:@"https://in-integration.dev.avalanch.es"];
 
   [AppCenterReactNativeCrashes registerWithAutomaticProcessing];  // Initialize AppCenter crashes
