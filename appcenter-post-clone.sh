@@ -2,6 +2,6 @@ which node
 
 node -v
 
-brew install node@8
+brew install node@8 -v
 
 node -v
