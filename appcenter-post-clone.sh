@@ -1,1 +1,3 @@
 git config --list
+
+hostname
