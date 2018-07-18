@@ -1,3 +1,3 @@
-git config --list
 
+id -un
 hostname
