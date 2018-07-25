@@ -10,8 +10,7 @@
     "appcenter": "^1.6.0",
     "appcenter-analytics": "^1.6.0",
     "appcenter-crashes": "^1.6.0",
-    "react": "16.3.1",
-    "react-native": "0.56.0"
+    "react": "16.3.1"
   },
   "devDependencies": {
     "babel-jest": "23.4.0",
