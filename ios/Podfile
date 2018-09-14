@@ -6,9 +6,9 @@ target 'ReactNativeApplicationv0554' do
   # use_frameworks!
 
   # Pods for ReactNativeApplicationv0554
-  pod 'AppCenter/Crashes', '~> 1.7.1'
-  pod 'AppCenter/Analytics', '~> 1.7.1'
-  pod 'AppCenterReactNativeShared', '~> 1.6.0'
+  pod 'AppCenter/Crashes', '~> 1.9.0'
+  pod 'AppCenter/Analytics', '~> 1.9.0'
+  pod 'AppCenterReactNativeShared', '~> 1.8.1'
 
   
 
