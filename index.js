@@ -1,4 +1,5 @@
-import { AppRegistry } from 'react-native';
-import App from './App';
+import { AppRegistry } from 'react-native'
+import './shim'
+import App from './App'
 
-AppRegistry.registerComponent('ReactNativeApplicationv0554', () => App);
+AppRegistry.registerComponent('golden', () => App)
